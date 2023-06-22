@@ -127,7 +127,6 @@ const registrar = async() =>{
     let _empleado = document.getElementById('_empleado').value
     let _cantidad = document.getElementById('_cantidad').value
     let _talla = document.getElementById('_talla').value
-    let _fechaRegistro = document.getElementById('_fechaRegistro').value
     let _horaInicial = document.getElementById('_horaInicial').value
     let _horaFinal = document.getElementById('_horaFinal').value
     let _estado = document.getElementById('_estado').value
