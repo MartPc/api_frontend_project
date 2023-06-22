@@ -139,7 +139,6 @@ let rendimiento = {
     empleado:_empleado,
     talla:_talla,
     cantidad:_cantidad,
-    fechaRegistro:_fechaRegistro,
     horaInicial:_horaInicial,
     horaFinal:_horaFinal,
     estado:_estado 
