@@ -374,7 +374,6 @@ const Actualizar = async(id) =>{
     let _empleado = document.getElementById('empleado').value
     let _cantidad = document.getElementById('cantidad').value
     let _talla = document.getElementById('talla').value
-    let _fechaRegistro = document.getElementById('fechaRegistro').value
     let _horaInicial = document.getElementById('horaInicial').value
     let _horaFinal = document.getElementById('horaFinal').value
     let _estado = document.getElementById('estado').value
@@ -387,7 +386,6 @@ const Actualizar = async(id) =>{
         empleado:_empleado,
         talla:_talla,
         cantidad:_cantidad,
-        fechaRegistro:_fechaRegistro,
         horaInicial:_horaInicial,
         horaFinal:_horaFinal,
         estado:_estado 
