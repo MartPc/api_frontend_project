@@ -36,7 +36,7 @@ const url = 'https://api-backend-project.onrender.com/main/jornada';
 
   const eliminar = (id) =>{
     Swal.fire({
-        title: 'Estas seguro?',
+        title: '¿Estás seguro?',
         text: "¡No podrás revertir esto!",
         icon: 'warning',
         showCancelButton: true,
